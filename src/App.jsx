@@ -1,9 +1,11 @@
-import React from 'react'
+import Home from "./component/page/Home";
 
 const App = () => {
   return (
-    <div className='bg-red-500'>App</div>
-  )
-}
+    <>
+      <Home />
+    </>
+  );
+};
 
-export default App
+export default App;
