@@ -15,13 +15,13 @@ const Success = () => {
             <h5 className="text-[#6A4DF4] text-2xl font-medium mb-4">
               Our Success
             </h5>
-            <h4 className="text-[#151515] text-4xl font-semibold w-[380px]">
+            <h4 className="text-[#151515] text-4xl font-semibold lg:w-[380px]">
               West cost Brand makers-Global Edge
             </h4>
           </div>
           <Flex
             className={
-              "lg:gap-x-25 gap-x-7 items-start mt-10 lg:mt-0 justify-end lg:justify-normal"
+              "lg:gap-x-25 gap-x-7 items-start mt-10 lg:mt-0 justify-end lg:justify-normal "
             }
           >
             <div className="">
